@@ -45,6 +45,6 @@ begin
     end
 end
 
-assign test_value = data_mem[0][15:0];
+assign test_value = data_mem[84][15:0];
 
 endmodule
